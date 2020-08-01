@@ -1,6 +1,8 @@
 Steps: 
 
-1. Get URLs using requests.get()
-2. Scrape for name and prices from both URLs using BeautifulSoup
-3. Compare and see if any of the prices match your conditions
-4. Use smtp to send an email notification if the target is met in step 3
+ 1. Accept email id of user
+ 2. Accept list of URLs of items from user
+ 3. Get URLs using requests.get()
+ 4. Scrape for name and prices from both URLs using BeautifulSoup
+ 5. Compare and see if any of the prices match your conditions
+ 6. Use smtp to send an email notification if the target is met in step 3
