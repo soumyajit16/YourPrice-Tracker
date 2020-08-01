@@ -1,2 +1,2 @@
-# Price-Tracker
-Tracks price of item(here: Norwegian Wood by Murakami(Paperback)) on Amazon and Flipkart, and sends an email when price drops below specified limit(here: INR 251) on either of the sites.
+# YourPrice-Tracker
+Tracks the price of any number of products entered by the user from either Amazon or Flipkart
